@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "EcoGlass Water Bottle",
+      "volume": "750ml",
+      "material": "Glass",
+      "color": "Clear",
+      "imageUrl": "https://example.com/images/ecoglass-water-bottle.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Stainless Steel Sports Bottle",
+      "volume": "1000ml",
+      "material": "Stainless Steel",
+      "color": "Silver",
+      "imageUrl": "https://example.com/images/stainless-steel-sports-bottle.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Plastic Squeeze Bottle",
+      "volume": "500ml",
+      "material": "Plastic",
+      "color": "Blue",
+      "imageUrl": "https://example.com/images/plastic-squeeze-bottle.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Aluminum Hiking Bottle",
+      "volume": "600ml",
+      "material": "Aluminum",
+      "color": "Green",
+      "imageUrl": "https://example.com/images/aluminum-hiking-bottle.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Insulated Thermos",
+      "volume": "1200ml",
+      "material": "Stainless Steel",
+      "color": "Black",
+      "imageUrl": "https://example.com/images/insulated-thermos.jpg"
+    }
+  ]
+  
